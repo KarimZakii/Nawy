@@ -1,7 +1,8 @@
 # HOW to RUN the project
-1- git clone the project
-2- on main branch from the root directory run docker compose up --build it should run 3 containers , Backend, frontend and database/
-3- after containers build visit http://localhost:3000/ 
+
+- git clone the project
+- on main branch from the root directory run docker compose up --build it should run 3 containers , Backend, frontend and database/
+- after containers build visit http://localhost:3000/ 
 
 # Nawy
 
